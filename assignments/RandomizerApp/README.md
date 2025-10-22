@@ -1,0 +1,2 @@
+- I chose a topic with balides Forums 1. In the description below the photo for each ballid.
+- Tested on an iPhone 16 device simulator
